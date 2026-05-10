@@ -41,8 +41,3 @@ The application stores data persistently using:
 - Encapsulation
 - File Handling
 - Menu-Driven Programming
-
-## How to Run
-1. Compile the code:
-```bash
-g++ main.cpp -o bank
